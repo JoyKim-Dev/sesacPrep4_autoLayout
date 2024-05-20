@@ -13,6 +13,7 @@
 		3589D5002BFB732B00886D56 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 3589D4FF2BFB732B00886D56 /* Base */; };
 		3589D5022BFB732C00886D56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3589D5012BFB732C00886D56 /* Assets.xcassets */; };
 		3589D5052BFB732C00886D56 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 3589D5042BFB732C00886D56 /* Base */; };
+		35EF6E3E2BFB863700A43B54 /* musicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35EF6E3D2BFB863700A43B54 /* musicViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3589D5012BFB732C00886D56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3589D5042BFB732C00886D56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3589D5062BFB732C00886D56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35EF6E3D2BFB863700A43B54 /* musicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3589D4F82BFB732B00886D56 /* AppDelegate.swift */,
 				3589D4FA2BFB732B00886D56 /* SceneDelegate.swift */,
 				3589D4FC2BFB732B00886D56 /* ViewController.swift */,
+				35EF6E3D2BFB863700A43B54 /* musicViewController.swift */,
 				3589D4FE2BFB732B00886D56 /* Main.storyboard */,
 				3589D5012BFB732C00886D56 /* Assets.xcassets */,
 				3589D5032BFB732C00886D56 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35EF6E3E2BFB863700A43B54 /* musicViewController.swift in Sources */,
 				3589D4FD2BFB732B00886D56 /* ViewController.swift in Sources */,
 				3589D4F92BFB732B00886D56 /* AppDelegate.swift in Sources */,
 				3589D4FB2BFB732B00886D56 /* SceneDelegate.swift in Sources */,
